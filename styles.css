@@ -1,47 +1,116 @@
 body {
-    font-family: 'Roboto', sans-serif;
-    padding: 25px;
-    background-color: white;
-    color: gray;
-    font-size: 18px;
-    margin-top:30px;
+	font-family: 'Roboto', sans-serif;
+	padding: 25px;
+	background-color: white;
+	color: gray;
+	font-size: 18px;
+	margin-top: 30px;
+
 }
+
+.dark-mode {
+	background-color: black;
+	color: white;
+}
+
+
 .search {
-    border-radius: 12px;
+	border-radius: 12px;
 }
-.title{
-text-align: center;
-margin-top:120px;
-font-family: 'Poppins', sans-serif;
-font-size: 30px;
+
+.title {
+	text-align: center;
+	margin-top: 120px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 30px;
 
 }
 
 a:link {
-    color: BLACK;
-  }
-  a:visited {
-    color: purple;
-  }
-  a:hover {
-    color: red;
-  }
-    
-
-  #randomLinkButton {
-    padding: 10px;
-    border-radius: 10px;
-    font-size: 13px;
-margin-top:-280px;
-margin-left:1200px;
-font-family: 'Poppins', sans-serif;
-
+	color: BLACK;
 }
+
+a:visited {
+	color: purple;
+}
+
+a:hover {
+	color: red;
+}
+
+
+#randomLinkButton {
+	padding: 10px;
+	border-radius: 10px;
+	font-size: 13px;
+	margin-top: -280px;
+	margin-left: 900px;
+	font-family: 'Poppins', sans-serif;
+	background: #efefef;
+	border: none;
+	color: #444;
+	letter-spacing: .2rem;
+	outline: none;
+	cursor: pointer;
+	transition: .2s ease-in-out;
+	box-shadow: -6px -6px 14px rgba(255, 255, 255, .7),
+		-6px -6px 10px rgba(255, 255, 255, .5),
+		6px 6px 8px rgba(255, 255, 255, .075),
+		6px 6px 10px rgba(0, 0, 0, .15);
+}
+
+button:hover {
+	box-shadow: -2px -2px 6px rgba(255, 255, 255, .6),
+		-2px -2px 4px rgba(255, 255, 255, .4),
+		2px 2px 2px rgba(255, 255, 255, .05),
+		2px 2px 4px rgba(0, 0, 0, .1);
+}
+
+button:active {
+	box-shadow: inset -2px -2px 6px rgba(255, 255, 255, .7),
+		inset -2px -2px 4px rgba(255, 255, 255, .5),
+		inset 2px 2px 2px rgba(255, 255, 255, .075),
+		inset 2px 2px 4px rgba(0, 0, 0, .15);
+}
+
+
 #PhysAIEx {
-padding: 10px;
-border-radius: 10px;
- font-size: 13px;
-margin-top:-280px;
-margin-left:1000px;
-font-family: 'Poppins', sans-serif;
+	padding: 10px;
+	border-radius: 10px;
+	font-size: 13px;
+	margin-top: -280px;
+	margin-left: 1100px;
+	font-family: 'Poppins', sans-serif;
+	background: #efefef;
+	border: none;
+	color: #444;
+	letter-spacing: .2rem;
+	outline: none;
+	cursor: pointer;
+	transition: .2s ease-in-out;
+	box-shadow: -6px -6px 14px rgba(255, 255, 255, .7),
+		-6px -6px 10px rgba(255, 255, 255, .5),
+		6px 6px 8px rgba(255, 255, 255, .075),
+		6px 6px 10px rgba(0, 0, 0, .15);
+}
+
+button:hover {
+	box-shadow: -2px -2px 6px rgba(255, 255, 255, .6),
+		-2px -2px 4px rgba(255, 255, 255, .4),
+		2px 2px 2px rgba(255, 255, 255, .05),
+		2px 2px 4px rgba(0, 0, 0, .1);
+}
+
+button:active {
+	box-shadow: inset -2px -2px 6px rgba(255, 255, 255, .7),
+		inset -2px -2px 4px rgba(255, 255, 255, .5),
+		inset 2px 2px 2px rgba(255, 255, 255, .075),
+		inset 2px 2px 4px rgba(0, 0, 0, .15);
+}
+
+
+input[type="image"] {
+	position: relative;
+	top: 6.5px;
+	left: 420px;
 }
