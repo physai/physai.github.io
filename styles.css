@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    padding: 25px;
+    background-color: white;
+    color: gray;
+    font-size: 18px;
+    margin-top:30px;
+}
+.search {
+    border-radius: 12px;
+}
+.title{
+text-align: center;
+margin-top:120px;
+font-family: 'Poppins', sans-serif;
+font-size: 30px;
+
+}
+
+a:link {
+    color: BLACK;
+  }
+  a:visited {
+    color: purple;
+  }
+  a:hover {
+    color: red;
+  }
+    
+
+  #randomLinkButton {
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 13px;
+margin-top:-280px;
+margin-left:1200px;
+font-family: 'Poppins', sans-serif;
+
+}
+#PhysAIEx {
+padding: 10px;
+border-radius: 10px;
+ font-size: 13px;
+margin-top:-280px;
+margin-left:1000px;
+font-family: 'Poppins', sans-serif;
+}
