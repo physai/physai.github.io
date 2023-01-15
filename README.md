@@ -1,5 +1,5 @@
 <h1> PhysAI: https://physai.github.io/ </h1>
-<p> This is a search interface, similar in functionality to Google Scholar, which has been specifically designed to yield results that are exclusively in the form of direct links to PDF documents. At present, the system has been optimized for the retrieval of PDFs within the domains of Intuitive Physics and AI Ethics, however, efforts are currently underway to expand the scope of the system to encompass a broader range of academic disciplines. </p>
+<p> This is a search interface, similar in functionality to Google Scholar, which has been specifically designed to yield results that are exclusively in the form of direct links to PDF documents. At present, the system has been optimized for the retrieval of PDFs within the domains of Intuitive Physics and Artificial Intelligence Ethics, however, efforts are currently underway to expand the scope of the system to encompass a broader range of academic disciplines. Additionally, the system includes a feature that generates a random paper from the available search results. Furthermore, it is worth noting that a chrome extension for this search interface is currently in development and will be made available to users soon.</p>
 
 
 
